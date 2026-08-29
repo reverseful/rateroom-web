@@ -1,0 +1,14 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(200,200) rotate(-10)">
+    <path d="M-8,-100
+             C10,-72 25,-50 55,-70
+             C42,-35 50,5 100,10
+             C60,25 40,45 65,95
+             C25,75 10,60 -20,80
+             C-15,50 -35,25 -75,35
+             C-40,15 -35,-20 -55,-45
+             C-30,-30 -20,-60 -8,-100 Z"
+          fill="#8ecdf0" opacity="0.6"/>
+  </g>
+  <circle cx="290" cy="290" r="5" fill="#8ecdf0" opacity="0.8"/>
+</svg>

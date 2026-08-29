@@ -1,0 +1,15 @@
+<svg viewBox="0 0 700 700" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(350,350)">
+    <polygon points="0,-330 286,-165 286,165 0,330 -286,165 -286,-165" fill="#12151c" stroke="#262b35" stroke-width="6"/>
+
+    <path d="M0 0 L0 -330 L286 -165 Z" fill="#0b2f5e"/>
+    <path d="M0 0 L286 -165 L286 0 Z" fill="#12457e"/>
+    <path d="M0 0 L286 0 L286 165 Z" fill="#1c63c9"/>
+    <path d="M0 0 L286 165 L0 330 Z" fill="#2e8fe0"/>
+    <path d="M0 0 L0 330 L-286 165 Z" fill="#4fb3ff"/>
+    <path d="M0 0 L-286 165 L-286 -165 L0 -330 Z" fill="#0d0f14"/>
+
+    <circle cx="0" cy="0" r="66" fill="#0b0d12"/>
+    <circle cx="0" cy="0" r="66" fill="none" stroke="#3a3f4a" stroke-width="3"/>
+  </g>
+</svg>
